@@ -1,18 +1,18 @@
 # app-dev
 My first repository
 
-# 8 mile
+# 8 Straight outta Compton
 
-![8 Mile poster](https://en.wikipedia.org/wiki/8_Mile_(film)#/media/File:Eight_mile_ver2.jpg)
+![Straight outta compton poster](https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)#/media/File:Straight_Outta_Compton_poster.jpg)
 
 ## Overview
-"8 mile" is a 2002 American drama film written by Scott Silver and directed by Curtis Hanson. It stars Eminem in his film debut, alongside Mekhi Phifer, Brittany Murphy, Michael Shannon, Kim Basinger and Anthony Mackie, the latter also in his film debut. 
+Straight Outta Compton is a 2015 American epic biographical drama film directed by F. Gary Gray, depicting the rise and fall of the hip hop group N.W.A and its members Eazy-E, Ice Cube, Dr. Dre, MC Ren, and DJ Yella. 
 
 ## Characters
-- **James "Jimmy" Smith Jr**: a rapper who uses the stage name "B-Rabbit".
-- **Stephanie Smith**: Jimmy and Lily's mother.
-- **David Porter**: also known as Future, Jimmy's best friend and the rap battle host.
+- **Alonzo Williams**:  club owner and member of Dr. Dre and DJ Yella's pre-N.W.A group World Class Wreckin' Cru
+- **Tomica Wright**: Eazy-E's girlfriend and eventual wife.
+- **Terry "T-Bone" Gray**: member of Ice Cube's post-N.W.A group Da Lench Mob
 
 ## Plot Summary
-In 1995, Jimmy is an aspiring rapper who performed under the stage name B-Rabbit. A blue-collar worker from a poor family residing in a trailer park just north of Detroit, Jimmy has moved to the run-down trailer home of his alcoholic mother, Stephanie, his younger sister Lily, and Stephanie's abusive live-in boyfriend, Greg. Although encouraged by his friends, Jimmy worries about his potential as a rapper. One night, Jimmy 'chokes' during a rap battle at a local venue, the Shelter, and he leaves the stage humiliated. After being congratulated by Alex and his friends, Jimmy is offered a position by Future to co-host battles at the Shelter. Jimmy declines, saying that hosting is Future's thing, and he needs to do his own, and leaves to return to work.
+In 1986, Compton, California become a chaotic dystopia due to street gangs, drug dealers, and police brutality. One night, Eazy-E narrowly evades a police raid at a crack house. The following day, Dr. Dre is struggling with what he wants to do in life and is confronted by his mother for missing a job interview. Meanwhile, Ice Cube is a high school senior aspiring to become a rapper. Dre parted ways with Knight and Death Row a year later to form his own label, Aftermath Entertainment. Clips shown during the film's credits highlight Cube's subsequent roles as a film actor and Dre's career as a producer and entrepreneur. Several famous rappers credit Dre with helping to launch their careers, and Beats Electronics, which he co-founded, was bought by Apple Inc. in 2014 for $3 billion.
 
