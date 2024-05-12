@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 
 # Get Rich or Die Tryin'
 
