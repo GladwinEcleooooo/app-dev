@@ -1,18 +1,19 @@
 # app-dev
 My first repository
 
-# 8 Straight outta Compton
+# Get Rich or Die Tryin'
 
-![Straight outta compton poster](https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)#/media/File:Straight_Outta_Compton_poster.jpg)
+![Get rich or die trying' poster](https://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27_(film)#/media/File:Get_rich_or_die_tryin.jpg)
 
 ## Overview
-Straight Outta Compton is a 2015 American epic biographical drama film directed by F. Gary Gray, depicting the rise and fall of the hip hop group N.W.A and its members Eazy-E, Ice Cube, Dr. Dre, MC Ren, and DJ Yella. 
+Get Rich or Die Tryin' is a 2005 American crime drama film directed by Jim Sheridan and written by Terence Winter. It stars Curtis "50 Cent" Jackson in his feature film acting debut, alongside Terrence Howard, Joy Bryant, Bill Duke, Adewale Akinnuoye-Agbaje, Omar Benson Miller, Ashley Walters and Viola Davis.
 
 ## Characters
-- **Alonzo Williams**:  club owner and member of Dr. Dre and DJ Yella's pre-N.W.A group World Class Wreckin' Cru
-- **Tomica Wright**: Eazy-E's girlfriend and eventual wife.
-- **Terry "T-Bone" Gray**: member of Ice Cube's post-N.W.A group Da Lench Mob
+- **Curtis "50 Cent" Jackson**: as Marcus "Young Caesar" Greer
+- **Terrence Howard**: as Bama
+- **Viola Davis**: Viola Greer
+
 
 ## Plot Summary
-In 1986, Compton, California become a chaotic dystopia due to street gangs, drug dealers, and police brutality. One night, Eazy-E narrowly evades a police raid at a crack house. The following day, Dr. Dre is struggling with what he wants to do in life and is confronted by his mother for missing a job interview. Meanwhile, Ice Cube is a high school senior aspiring to become a rapper. Dre parted ways with Knight and Death Row a year later to form his own label, Aftermath Entertainment. Clips shown during the film's credits highlight Cube's subsequent roles as a film actor and Dre's career as a producer and entrepreneur. Several famous rappers credit Dre with helping to launch their careers, and Beats Electronics, which he co-founded, was bought by Apple Inc. in 2014 for $3 billion.
+Marcus is a quiet boy who adores his mother Katrina, and the two live a relatively comfortable life on her drug-dealing income. After Marcus writes a song for his love interest Charlene, her stepfather sends her away to live with her grandparents. Meanwhile, Marcus's mother is murdered, and Marcus has to live with his grandparents full-time. Marcus turns to selling drugs in order to buy new shoes, and as he grows older, he eventually abandons high school to sell drugs for local kingpin, Levar, and his underling, Majestic. At Marcus's concert debut, Majestic shows up with his goons and tries to intimidate Marcus as he goes on stage. Majestic reveals that he killed Marcus's mother years earlier for spurning his affections. Marcus attacks Majestic in rage but before he can kill Majestic, Bama persuades him to start the show, urging him to think about his family. As Marcus starts to walk out on stage, Majestic tries to stab him, but Bama shoots Majestic. Majestic begs for Marcus to finish him off, but Marcus refuses. As he walks out towards the crowd, Bama kills Majestic anyway. Marcus steps onto the stage, removes his bulletproof vest and performs "Hustler's Ambition".
 
